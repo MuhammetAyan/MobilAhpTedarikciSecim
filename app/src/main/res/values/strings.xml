@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MobilAhpTedarikciSecim</string>
+    <string-array name="urun">
+        <item>Ali</item>
+        <item>Veli</item>
+        <item>Ok</item>
+        <item>Selim</item>
+        <item>Selim</item>
+        <item>Selim</item>
+        <item>Selim</item>
+        <item>Selim</item>
+        <item>Selim</item>
+        <item>Selim</item>
+        <item>Selim</item>
+        <item>Selim</item>
+        <item>Selim</item>
+        <item>Selim</item>
+        <item>Selim</item>
+        <item>Selim</item>
+        <item>Selim</item>
+        <item>Selim</item>
+        <item>Selim</item>
+        <item>Selim</item>
+    </string-array>
+</resources>

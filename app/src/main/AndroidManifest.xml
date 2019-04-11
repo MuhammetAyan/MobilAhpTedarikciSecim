@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mobilahptedarikcisecim">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".TedarikciSorgula2"
+            android:label="TedarikciSorgula"/>
+        <activity android:name=".UrunSorgula2"
+            android:label="UrunSorgula"/>
+        <activity
+            android:name=".StratejiBelirle2"
+            android:label="StratejiBelirle" />
+        <activity
+            android:name=".StratejiBelirle"
+            android:label="StratejiBelirle" />
+        <activity
+            android:name=".UrunSorgula"
+            android:label="UrunSorgula" />
+        <activity
+            android:name=".TedarikciSorgula"
+            android:label="TedarikciSorgula" />
+        <activity
+            android:name=".TSS_Menu"
+            android:label="TSS Menü" />
+        <activity
+            android:name=".MainActivity"
+            android:label="Giriş Yap">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
